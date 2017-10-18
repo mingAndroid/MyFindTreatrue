@@ -25,6 +25,7 @@ import butterknife.Unbinder;
 public class MainActivity extends AppCompatActivity {
 
     public static final String MAIN_ACTION = "navigate_to_main";
+
     @BindView(R.id.btn_Register)
     Button mBtnRegister;
     @BindView(R.id.btn_Login)
