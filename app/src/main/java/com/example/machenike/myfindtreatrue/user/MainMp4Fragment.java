@@ -27,6 +27,9 @@ public class MainMp4Fragment extends Fragment implements TextureView.SurfaceText
     private ActivityUtils mActivityUtils;
     private MediaPlayer mMediaPlayer;
 
+
+
+
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
